@@ -35,20 +35,20 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["React developer", "web-Developer",  "Designer", "Freelancer"],
+        strings: ["Frontend developer", "web-Developer",  "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["React developer", "web-Developer",  "Designer", "Freelancer"],
+        strings: ["Frontend developer", "web-Developer",  "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-3", {
-        strings: ["React developer", "web-Developer",  "Designer", "Freelancer"],
+        strings: ["Frontend developer", "web-Developer",  "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
